@@ -58,9 +58,6 @@
 #### Russia outside
 Списки российских ресурсов, которые доступны только для российских подсетей. Для людей за границей, которым нужен доступ к российским сервисам.
 
-### Украина
-Список заблокированных ресурсов в Украине. Списки берутся с ресурсов https://uablacklist.net/ и https://zaborona.help/.
-
 # Прямые ссылки на списки
 Все ссылки спрятаны под спойлеры — нажмите на нужный список, чтобы раскрыть его.
 
@@ -93,20 +90,6 @@
 - [SRS](https://github.com/itdoginfo/allow-domains/releases/latest/download/russia_outside.srs)
 - [MRS domain](https://github.com/itdoginfo/allow-domains/releases/latest/download/russia_outside_domain.mrs)
 - geosite:russia-outside
-
-</details>
-
-<details>
-  <summary>Ukraine</summary>
-
-- [Dnsmasq nfset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-dnsmasq-nfset.lst)
-- [Dnsmasq ipset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-dnsmasq-ipset.lst)
-- [ClashX](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-clashx.lst)
-- [Kvas](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-kvas.lst)
-- [Mikrotik](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Ukraine/inside-mikrotik-fwd.lst)
-- [SRS](https://github.com/itdoginfo/allow-domains/releases/latest/download/ukraine_inside.srs)
-- [MRS domain](https://github.com/itdoginfo/allow-domains/releases/latest/download/ukraine_inside_domain.mrs)
-- geosite:ukraine
 
 </details>
 
